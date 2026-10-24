@@ -6,7 +6,7 @@ AeroTrack Pro tracks baggage through the airport using **QR checkpoint scans**, 
 
 | Team member | Role | Roll no. |
 |---|---|---|
-| Sanjiv Kumar A | Main Developer / Project Lead | 26MX217 |
+| Sanjiv Kumar A | Developer | 26MX217 |
 | Dheena Dhayal M | Developer | 26MX106 |
 | Rebakha Snowit M | Developer | 26MX121 |
 
@@ -340,5 +340,6 @@ Costs and limits (check current pricing pages before relying on these): Render's
 ---
 
 Academic project. Not affiliated with or endorsed by any airline or airport.
-#   A e r o T r a c k  
+#   A e r o T r a c k 
+ 
  
